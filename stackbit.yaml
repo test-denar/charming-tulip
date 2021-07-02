@@ -2,7 +2,7 @@
 # To learn more about stackbit.yaml please visit https://www.stackbit.com/docs/stackbit-yaml/
 stackbitVersion: ~0.3.0
 ssgName: hugo
-ssgVersion: 0.82.0
+ssgVersion: 0.80.0
 buildCommand: hugo
 publishDir: public
 staticDir: static
